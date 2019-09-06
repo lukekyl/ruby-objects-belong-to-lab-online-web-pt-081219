@@ -1,1 +1,3 @@
-def Autho
+class Author 
+  
+end
